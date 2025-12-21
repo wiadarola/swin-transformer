@@ -1,0 +1,2 @@
+embed_dim: 96
+depths: [2, 2, 18, 2]
